@@ -111,7 +111,7 @@ import FreecadImportMod
 FreecadImportMod.addExtension()
 ```
 
-Поучается такая структура файлов расширения:
+Получается такая структура файлов расширения:
 
 ```plaintext
 /Mod/
