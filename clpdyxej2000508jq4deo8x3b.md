@@ -1,7 +1,7 @@
 ---
 title: "Способ организации документации проекта C++ в стиле Doc As Code"
 seoTitle: "Способ организации документации проекта C++ в стиле Doc As Code"
-seoDescription: "Doc As Code с связке Doxygen / Markdown - это отличный способ организовать документацию проекта на С++"
+seoDescription: "Doc As Code в связке с Doxygen / Markdown - это отличный способ организовать документацию проекта на С++"
 datePublished: Sat Nov 25 2023 11:28:50 GMT+0000 (Coordinated Universal Time)
 cuid: clpdyxej2000508jq4deo8x3b
 slug: sposob-organizacii-dokumentacii-proekta-c-v-stile-doc-as-code
@@ -159,7 +159,7 @@ Just build the Lib!
 
 # Вывод
 
-Doc As Code с связке Doxygen / Markdown - это отличный способ организовать документацию проекта на С++. Вся документация размещается в репозитории рядом с исходным кодом. Для небольших проектов этого более чем достаточно.
+Doc As Code в связке с Doxygen / Markdown - это отличный способ организовать документацию проекта на С++. Вся документация размещается в репозитории рядом с исходным кодом. Для небольших проектов этого более чем достаточно.
 
 ---
 
