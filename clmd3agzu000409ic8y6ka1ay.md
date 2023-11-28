@@ -1,5 +1,7 @@
 ---
 title: "Как определить собственные JS-функции при работе с QJSEngine от PySide6"
+seoTitle: "Как определить собственные JS-функции при работе с QJSEngine от PySide"
+seoDescription: "В инструкции рассмотрим как определять пользовательские JavaScript-функции для QJSEngine от PySide6 в программах на Python"
 datePublished: Sun Sep 10 2023 06:44:05 GMT+0000 (Coordinated Universal Time)
 cuid: clmd3agzu000409ic8y6ka1ay
 slug: kak-opredelit-sobstvennye-js-funkcii-pri-rabote-s-qjsengine-ot-pyside6
