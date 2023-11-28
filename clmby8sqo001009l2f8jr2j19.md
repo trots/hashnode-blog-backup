@@ -1,5 +1,7 @@
 ---
 title: "Как расширить FreeCAD для импорта нового формата данных"
+seoTitle: "Как расширить FreeCAD для импорта нового формата данных"
+seoDescription: "Создаем простейший плагин для импорта пользовательских данных в FreeCAD"
 datePublished: Sat Sep 09 2023 11:35:02 GMT+0000 (Coordinated Universal Time)
 cuid: clmby8sqo001009l2f8jr2j19
 slug: kak-rasshirit-freecad-dlya-importa-novogo-formata-dannyh
