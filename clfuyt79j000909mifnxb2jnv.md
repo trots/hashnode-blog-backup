@@ -1,5 +1,7 @@
 ---
 title: "Как разбить полигональную сетку плоскостью"
+seoTitle: "Как разбить полигональную сетку плоскостью"
+seoDescription: "В статье рассмотрен один из подходов к разбиению триангуляционной сетки плоскостью"
 datePublished: Thu Mar 30 2023 10:20:35 GMT+0000 (Coordinated Universal Time)
 cuid: clfuyt79j000909mifnxb2jnv
 slug: kak-razbit-poligonalnuyu-setku-ploskostyu
