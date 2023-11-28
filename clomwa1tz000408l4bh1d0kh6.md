@@ -1,5 +1,7 @@
 ---
 title: "Как создать юнит-тест QtTest в среде разработки QtCreator"
+seoTitle: "Как создать юнит-тест QtTest в среде разработки QtCreator"
+seoDescription: "В рамках статьи рассмотрим как создавать юнит-тесты с помощью библиотеки QtTest в QtCreator."
 datePublished: Mon Nov 06 2023 12:44:54 GMT+0000 (Coordinated Universal Time)
 cuid: clomwa1tz000408l4bh1d0kh6
 slug: kak-sozdat-yunit-test-qttest-v-srede-razrabotki-qtcreator
