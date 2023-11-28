@@ -1,5 +1,7 @@
 ---
 title: ""Парк юрского периода" глазами разработчика программ"
+seoTitle: "Парк юрского периода глазами разработчика программ"
+seoDescription: "Перечитывая "Парк юрского периода" Майкла Крайтона, у меня невольно возникли ассоциации с процессами производства программного обеспечения"
 datePublished: Thu Jan 26 2023 14:50:41 GMT+0000 (Coordinated Universal Time)
 cuid: cldd7pvwl000009l1b1r7hriz
 slug: park-yurskogo-perioda-glazami-razrabotchika-programm
