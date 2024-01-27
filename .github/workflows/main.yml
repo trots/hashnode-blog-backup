@@ -1,0 +1,34 @@
+on: 
+  workflow_dispatch:
+    inputs:
+      output_path:
+        description: "output folder"
+        default: "assets"
+      pattern:
+        description: "files pattern"
+        default: "**.md"
+      posts_output_path:
+        description: "posts folder"
+        default: "posts"        
+           
+
+jobs:
+  backup_hashnode:
+    runs-on: ubuntu-latest
+    name: Backup images from Hashnode md files
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Backup Hashnode
+        id: backup
+        uses: niradler/hashnode-assets-backup@v0.2
+        with:
+          output_path: ${{ github.event.inputs.output_path }}
+          posts_output_path: ${{ github.event.inputs.posts_output_path }}
+          pattern: ${{ github.event.inputs.pattern }}          
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'assets'
+          author_name: Backup Bot
+          author_email: backup@bot.com
+          message: 'Commit assets by workflow'
