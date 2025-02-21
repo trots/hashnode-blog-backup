@@ -6,7 +6,7 @@ datePublished: Sat Sep 09 2023 11:35:02 GMT+0000 (Coordinated Universal Time)
 cuid: clmby8sqo001009l2f8jr2j19
 slug: kak-rasshirit-freecad-dlya-importa-novogo-formata-dannyh
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694258884753/b81206fd-30a0-46b3-bc2d-6b4811f02289.png
-tags: 3d, cad, sapr
+tags: 3d, cad, freecad, sapr
 
 ---
 
