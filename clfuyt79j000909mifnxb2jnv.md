@@ -6,6 +6,7 @@ datePublished: Thu Mar 30 2023 10:20:35 GMT+0000 (Coordinated Universal Time)
 cuid: clfuyt79j000909mifnxb2jnv
 slug: kak-razbit-poligonalnuyu-setku-ploskostyu
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680080527041/05fbdffd-af44-47ed-b3ea-22fad80d0252.png
+tags: algorithms, 3d, 3d-model, splitting, polygon, geometry, triangulation, triangulyaciya, poligon, geometriya, algoritmy
 
 ---
 
