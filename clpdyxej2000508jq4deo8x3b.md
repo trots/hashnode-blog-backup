@@ -5,6 +5,7 @@ seoDescription: "Doc As Code в связке с Doxygen / Markdown - это от
 datePublished: Sat Nov 25 2023 11:28:50 GMT+0000 (Coordinated Universal Time)
 cuid: clpdyxej2000508jq4deo8x3b
 slug: sposob-organizacii-dokumentacii-proekta-c-v-stile-doc-as-code
+canonical: https://mediocre-developer.ru/cpp-doc-as-code
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700911613086/e3ac4144-a6e9-4323-9e33-1c33a69a41da.jpeg
 tags: markdown, documentation, doxygen, documentationbestpractices, documentation-tool, docascode
 
