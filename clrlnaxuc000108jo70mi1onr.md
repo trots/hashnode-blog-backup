@@ -5,6 +5,7 @@ seoDescription: "Управление временем работы над ка�
 datePublished: Sat Jan 20 2024 05:45:00 GMT+0000 (Coordinated Universal Time)
 cuid: clrlnaxuc000108jo70mi1onr
 slug: tajm-menedzhment-i-kandidatskaya-dissertaciya
+canonical: https://mediocre-developer.ru/time-disser
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705528443650/1477e641-5ffb-4f37-902b-79f87dbd5966.png
 tags: time-management, upravlenie-vremenem, tajm-menedzhment, dissertaciya
 
