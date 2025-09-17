@@ -5,6 +5,7 @@ seoDescription: "Перечитывая "Парк юрского периода"
 datePublished: Thu Jan 26 2023 14:50:41 GMT+0000 (Coordinated Universal Time)
 cuid: cldd7pvwl000009l1b1r7hriz
 slug: park-yurskogo-perioda-glazami-razrabotchika-programm
+canonical: https://mediocre-developer.ru/jurassic-park-complexity
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/G20Xr__6-Gg/upload/ef50f578739fef32b246f3de9d944736.jpeg
 tags: books, software-engineering
 
