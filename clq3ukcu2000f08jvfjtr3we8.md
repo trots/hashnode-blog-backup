@@ -5,6 +5,7 @@ seoDescription: "Разбираемся, как решать проблемы п
 datePublished: Wed Dec 13 2023 14:08:43 GMT+0000 (Coordinated Universal Time)
 cuid: clq3ukcu2000f08jvfjtr3we8
 slug: profilirovanie-c-koda-v-visual-studio-bez-instrumentirovaniya
+canonical: https://mediocre-developer.ru/cpp-profile-vs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702476491051/92e08174-b05c-42f8-b50c-27466374b0d2.jpeg
 tags: optimization, cpp, visual-studio, profiling, optimizaciya-koda, profilirovanie, profilirovanie-c
 
