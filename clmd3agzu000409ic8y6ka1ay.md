@@ -5,7 +5,7 @@ seoDescription: "В инструкции рассмотрим как опред�
 datePublished: Sun Sep 10 2023 06:44:05 GMT+0000 (Coordinated Universal Time)
 cuid: clmd3agzu000409ic8y6ka1ay
 slug: kak-opredelit-sobstvennye-js-funkcii-pri-rabote-s-qjsengine-ot-pyside6
-canonical: https://mediocre-developer.ru/pyside6-js-engine
+canonical: https://mediocre-developer.ru/kak-opredelit-sobstvennye-js-funkcii-pri-rabote-s-qjsengine-ot-pyside6
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694301235033/ac57edf1-d9a3-4555-b7d0-5e499ea29bb0.png
 tags: javascript, python, pyside6
 
