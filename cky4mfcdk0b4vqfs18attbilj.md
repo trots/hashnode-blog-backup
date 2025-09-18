@@ -5,7 +5,7 @@ seoDescription: "Рассмотрим несколько способов заг
 datePublished: Fri Jan 07 2022 16:36:53 GMT+0000 (Coordinated Universal Time)
 cuid: cky4mfcdk0b4vqfs18attbilj
 slug: kak-zagruzit-kod-proekta-na-github
-canonical: https://mediocre-developer.ru/load-code-on-github
+canonical: https://mediocre-developer.ru/kak-zagruzit-kod-proekta-na-github
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1641285856478/8xDUNxLvQ.png
 tags: github, git
 
