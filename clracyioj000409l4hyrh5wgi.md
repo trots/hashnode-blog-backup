@@ -5,7 +5,7 @@ seoDescription: "Учимся запускать сторонние прилож
 datePublished: Fri Jan 12 2024 08:09:56 GMT+0000 (Coordinated Universal Time)
 cuid: clracyioj000409l4hyrh5wgi
 slug: kak-zapustit-analizator-utechek-pamyati-drmemory-iz-qtcreator
-canonical: https://mediocre-developer.ru/dr-memory-run
+canonical: https://mediocre-developer.ru/kak-zapustit-analizator-utechek-pamyati-drmemory-iz-qtcreator
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702728483483/05fea436-d05f-41f1-87fc-c23e09a997da.png
 tags: cpp, memory-leak, qt-creator, drmemory, utechka-pamyati, analiz-utechek-pamyati
 
