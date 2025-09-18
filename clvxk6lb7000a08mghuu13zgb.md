@@ -5,7 +5,7 @@ seoDescription: "Рассматриваем возможность запуск�
 datePublished: Wed May 08 2024 08:29:42 GMT+0000 (Coordinated Universal Time)
 cuid: clvxk6lb7000a08mghuu13zgb
 slug: chek-list-dlya-zapuska-proekta-na-pyside6-pod-windows-7
-canonical: https://mediocre-developer.ru/pyside-win7
+canonical: https://mediocre-developer.ru/chek-list-dlya-zapuska-proekta-na-pyside6-pod-windows-7
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715109276759/61e5be2a-1477-48a4-8996-7a76eece01f0.png
 tags: checklist, python, windows-7, pyside6, pyside, chek-list
 
