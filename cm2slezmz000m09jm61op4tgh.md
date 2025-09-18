@@ -5,7 +5,7 @@ seoDescription: "Простейший пример исследования и �
 datePublished: Mon Oct 28 2024 05:43:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm2slezmz000m09jm61op4tgh
 slug: kak-issledovat-exe-fajly-s-cutter-praktika-obratnoj-razrabotki
-canonical: https://mediocre-developer.ru/cutter-intro
+canonical: https://mediocre-developer.ru/kak-issledovat-exe-fajly-s-cutter-praktika-obratnoj-razrabotki
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729955922693/7c979845-80bd-4537-846e-d14120876e41.png
 tags: cpp, assembly, reverse-engineering, cutter, obratnaya-razrabotka, informacionnaya-bezopasnost
 
