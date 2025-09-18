@@ -5,7 +5,7 @@ seoDescription: "Разделяем на подпроекты существую
 datePublished: Tue Apr 22 2025 06:00:44 GMT+0000 (Coordinated Universal Time)
 cuid: cm9s3jbht000z09l7gucj9w80
 slug: kak-razbit-proekt-cmake-na-podproekty
-canonical: https://mediocre-developer.ru/cmake-submodule
+canonical: https://mediocre-developer.ru/kak-razbit-proekt-cmake-na-podproekty
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745091440837/6480f48c-9a38-4974-9aca-96498c05b449.png
 tags: cpp, project-structure, cmake, cmake-addsubdirectory, cmake-subdirectories, cmake-podproekty, cmake-biblioteka, cmake-library
 
