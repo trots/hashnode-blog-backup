@@ -5,7 +5,7 @@ seoDescription: "Учимся создавать свое первое окон�
 datePublished: Mon Feb 24 2025 21:05:01 GMT+0000 (Coordinated Universal Time)
 cuid: cm7jjqofg00010alba2j57wx4
 slug: kak-sozdat-okonnoe-prilozhenie-na-qt-v-srede-qtcreator
-canonical: https://mediocre-developer.ru/qt-window
+canonical: https://mediocre-developer.ru/kak-sozdat-okonnoe-prilozhenie-na-qt-v-srede-qtcreator
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740347214725/00253f42-120f-478b-9da1-f43ca84d4f10.png
 tags: cpp, layout, qt, qt-creator
 
