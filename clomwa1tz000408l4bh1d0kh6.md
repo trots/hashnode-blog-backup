@@ -5,7 +5,7 @@ seoDescription: "В рамках статьи рассмотрим как соз
 datePublished: Mon Nov 06 2023 12:44:54 GMT+0000 (Coordinated Universal Time)
 cuid: clomwa1tz000408l4bh1d0kh6
 slug: kak-sozdat-yunit-test-qttest-v-srede-razrabotki-qtcreator
-canonical: https://mediocre-developer.ru/qt-unit-test
+canonical: https://mediocre-developer.ru/kak-sozdat-yunit-test-qttest-v-srede-razrabotki-qtcreator
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699273508666/ca920591-f53b-4171-98d4-94d451ac27bb.png
 tags: unit-testing, qt, qt-creator, qttest
 
